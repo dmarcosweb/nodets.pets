@@ -7,5 +7,5 @@ Site de pets - Node & Typescript
 ### Instalação
 `npm install`
 
-### Start projeto - pkg.json → { scripts }
+### Start Project - pkg.json → { scripts }
 `npm run start-dev`
